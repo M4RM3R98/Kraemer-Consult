@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://kraemerconsult.com/sitemap.xml
+
+# Disallow admin or sensitive directories (if any)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Allow all search engines to crawl the site
+# This is a business website that wants to be found
+
+# Crawl-delay (optional, uncomment if needed)
+# Crawl-delay: 1
+
